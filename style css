@@ -1,0 +1,202 @@
+body{ 
+  text-align: center 
+}
+
+.h1{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin-top: 100px;
+}
+
+.h2{
+    text-align: justify;
+    font-family: Arial, sans-serif;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.contenedor{
+  background-color: gray;
+  margin: 600px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  padding: 2px;
+}
+  
+  .img{
+    width: 10%;
+    overflow: hidden;
+    justify-content: center;
+    align-items: flex-start;
+    height: 20%;
+    float: left;
+    margin-left: 600px;
+    justify-content: flex-end;
+  }
+  
+  .texto{
+    text-align: justify;
+    margin-top: 10px;
+    font-family: serif;
+    margin-right: 700px;
+    margin-left: 600px;
+  }
+
+
+
+
+
+  .table{
+    display: flex;
+    justify-content: center;
+    margin-top: 150px;
+    margin-bottom: 150px;
+  
+  }
+
+  table{
+    width: 80%;
+    border-collapse: collapse;
+    }
+      
+   .fondo-tabla{
+      background-color: aqua;
+      margin-left: 500px;
+      margin-right: 500px;
+      margin-top: 150px;
+      margin-bottom: 150px;
+      border: 500px;
+   }
+
+  th{
+    text-align: center;
+    padding: 30px;
+    border: 1px solid black;
+   vertical-align: top;
+  }
+
+  td{
+    padding: 30px;
+    border: 1px solid black;
+  }
+
+  .colores{
+    vertical-align: top;
+    justify-content: center;
+    background-color: green;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 35px;
+    font-weight: bold;
+  }
+
+  .black{
+    background-color: black;
+    text-align: left;
+    font-size: 30px;
+    font-weight: bold;
+  }
+  
+  .teal{
+    background-color: teal;
+    text-align: left;
+    font-size: 30px;
+    font-weight: bold;
+  }
+  
+  .blue{
+    background-color: blue; 
+    text-align: left;
+    font-size: 30px;
+    font-weight: bold;
+  }
+  
+  .navy{
+    background-color: navy; 
+    text-align: left;
+    font-size: 30px;
+    font-weight: bold;
+  }
+  
+  .lime{
+    background-color: lime;
+    text-align: left; 
+    font-size: 30px;
+    font-weight: bold;
+  }
+  
+  .white{
+    background-color: white; 
+    text-align: left;
+    font-size: 30px;
+    font-weight: bold;
+  }
+  .purple{
+    background-color: purple;
+    text-align: left; 
+    font-size: 30px;
+    font-weight: bold;
+  }
+  
+  .yellow{
+    background-color: yellow; 
+    text-align: left;
+    font-size: 30px;
+    font-weight: bold;
+  }
+  
+  .olive{
+    background-color: olive; 
+    text-align: left;
+    font-size: 30px;
+    font-weight: bold;
+  }
+  
+  .red´{
+    background-color: red;
+    text-align: left;
+    font-size: 30px;
+    font-weight: bold;
+  }
+  
+  .marron{
+    background-color: brown; 
+    text-align: left;
+    font-size: 30px;
+    font-weight: bold;
+  }
+  
+  .gray{
+    background-color: gray; 
+    text-align: left;
+    font-size: 30px;
+    font-weight: bold;
+  }
+
+  .olive{
+    background-color: olive; 
+    text-align: left;
+    font-size: 30px;
+    font-weight: bold;
+  }
+  
+  .red{
+    background-color: red; 
+    text-align: left;
+    font-size: 30px;
+    font-weight: bold;
+  }
+  
+  .fuchsia{
+    background-color: fuchsia; 
+    text-align: left;
+    font-size: 30px;
+    font-weight: bold;
+  }
+  
+  .green{
+    background-color: green; 
+    text-align: left;
+    font-size: 30px;
+    font-weight: bold;
+  }
